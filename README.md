@@ -2,7 +2,7 @@
 
 This repo contains the source code and dataset for our Uni3DA work(under review):
 
-[**Uni3DA: Universal 3D Domain Adaptation for Object Recognition**](http://papers.nips.cc/paper/8940-pointdan-a-multi-scale-3d-domain-adaption-network-for-point-cloud-representation)
+[**Uni3DA: Universal 3D Domain Adaptation for Object Recognition**](TBD)
 
 
 
