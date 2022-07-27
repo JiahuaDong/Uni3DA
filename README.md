@@ -52,7 +52,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Data Download
-Download the [Uni3DA_data]() and extract it as the dataset fold.
+Download the [Uni3DA_data](https://drive.google.com/file/d/1KfH3JdCzwKi0qEMCEemYssumF3mTR7Bv/view?usp=sharing) and extract it as the dataset fold.
 
 ## Train & Test
 If you run the experiment on one adaptation scanerio, like modelnet to shapenet,
